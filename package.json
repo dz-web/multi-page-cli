@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
+    "change-case": "^3.0.1",
+    "ejs": "^2.5.7",
     "inquirer": "^3.3.0",
     "lodash": "^4.17.4",
     "yargs": "^10.0.3"
