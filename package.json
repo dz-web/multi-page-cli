@@ -1,6 +1,6 @@
 {
   "name": "@dz-web/multi-page-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "bin": {
     "mpcli": "index.js"
