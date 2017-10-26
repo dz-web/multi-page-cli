@@ -50,7 +50,7 @@ module.exports = {
 };
 ```
 
-2. 根据配置，编写好新建文件的模板，采用[ejs](https://www.npmjs.com/package/ejs)语法编写即可, 渲染配置时传入两个变量: pascal与kebab,
+2. 根据配置，编写好新建文件的模板，采用[ejs](https://www.npmjs.com/package/ejs)语法编写即可, 渲染时传入两个变量: pascal与kebab,
 pascal是pascal命名法的组件名称, 如: TestPage, Home, kebab是kebab形式的命名，如: test-page, home。
 
 3. 在package.json的scripts增加一行配置:
