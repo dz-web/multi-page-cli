@@ -1,15 +1,15 @@
 {
-  "name": "multi-page-cli",
-  "version": "0.0.1",
+  "name": "@dz-web/multi-page-cli",
+  "version": "0.1.0",
   "description": "",
   "bin": {
     "mpcli": "index.js"
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "pub": "npm publish --access public"
   },
-  "author": "",
+  "author": "yeluoqiuzhi",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
